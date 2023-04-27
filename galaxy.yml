@@ -1,7 +1,7 @@
 ---
-namespace: {{ collection_namespace }}
-name: {{ collection_name }}
-version: {{ collection_version }}
+namespace: dragonslair
+name: controller_configuration
+version: 1.0
 description: A collection of roles to manage Ansible Controller
 readme: README.md
 authors:
@@ -11,8 +11,8 @@ authors:
     - Tom Page @Tompage1994
     - Sean Sullivan @sean-m-sullivan
     - David Danielsson @djdanielsson
-repository: {{ collection_repo }}
-issues: {{ collection_repo }}/issues
+repository: https://github.com/hfenner/controller_configuration
+issues: https://github.com/hfenner/controller_configuration/issues
 build_ignore:
     - galaxy.yml.j2
     - release.yml
