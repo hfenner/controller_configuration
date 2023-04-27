@@ -1,7 +1,7 @@
 ---
 namespace: dragonslair
 name: controller_configuration
-version: 1.0
+version: 1.0.1
 description: A collection of roles to manage Ansible Controller
 readme: README.md
 authors:
